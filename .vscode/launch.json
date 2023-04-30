@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Scrapy: Dry Run",
+            "name": "Scrapy: crawl bookspider",
             "type": "python",
             "request": "launch",
             "module": "scrapy",
