@@ -16,7 +16,7 @@ FEEDS = {
    'booksdata.json': {'format': 'json', 'overwrite': True}
 }
 
-SCRAPEOPS_API_KEY = 'e1015e08-18b9-43fe-a389-84e886876557'
+SCRAPEOPS_API_KEY = 'your_API_KEY'
 SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = 'https://headers.scrapeops.io/v1/user-agents'
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
 SCRAPEOPS_NUM_RESULTS = 5
