@@ -1,4 +1,4 @@
-## Scrape [books.toscrape.com](https://books.toscrape.com/) with Scrapy framework
+## Scrape [books.toscrape.com](https://books.toscrape.com/) with Scrapy
 
 1. `docker-compose up -d` for creating database or comment out SavaToMySQLPipeline in settings.py
 2. `pip install -r requirements.txt`
